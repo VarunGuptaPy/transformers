@@ -1089,3 +1089,8 @@ __all__ = [
     "HelpingAIForSequenceClassification",
     "HelpingAIForTokenClassification",
 ]
+
+
+
+HelpingAIConfig.register_for_auto_class()
+HelpingAIForCausalLM.register_for_auto_class("AutoModelForCausalLM")
