@@ -19,7 +19,7 @@ from ...utils.import_utils import define_import_structure
 
 if TYPE_CHECKING:
     from .configuration_helpingai import *
-    from .modelling_helpinai import *
+    from .modeling_helpinai import *
 else:
     import sys
 
