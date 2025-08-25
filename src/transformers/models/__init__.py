@@ -154,6 +154,7 @@ if TYPE_CHECKING:
     from .grounding_dino import *
     from .groupvit import *
     from .helium import *
+    from .helpingai3 import *
     from .herbert import *
     from .hgnet_v2 import *
     from .hiera import *

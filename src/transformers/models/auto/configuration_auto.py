@@ -190,6 +190,7 @@ CONFIG_MAPPING_NAMES = OrderedDict[str, str](
         ("grounding-dino", "GroundingDinoConfig"),
         ("groupvit", "GroupViTConfig"),
         ("helium", "HeliumConfig"),
+        ("helpingai", "HelpingAIConfig"),
         ("hgnet_v2", "HGNetV2Config"),
         ("hiera", "HieraConfig"),
         ("hubert", "HubertConfig"),
